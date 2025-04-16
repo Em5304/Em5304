@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Em5304
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
-- ⚡ Fun fact
-Em5304/Em5304 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Emily 
+- 👀 I’m interested in Biomedical engineering and or Tech aesthetics in general 
+- 🌱 I’m currently learning how to become  an independent person with ADD and APD.
+- ❤️ Cats, Tech , Family, Friends, Boyfriend, and God
+- 📫 How to reach me... well you can't so..
+- ⚡ Fun fact I am an ISTP and i also believe in the 5w1 ennegram 
+- 🖤🩶🤍 My link for donations and more. https://beacons.ai/em5304_
